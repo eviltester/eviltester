@@ -7,7 +7,7 @@
     - [eviltester.com/blog](https://eviltester.com/blog)
 - **Helping teams** improve their **Testing, Automating and Software Development**.
     - **Consulting** via [compendiumdev.co.uk](https://compendiumdev.co.uk)
-- Improving companies Digital Marketing, and blogging about lessons learned.
+- **Improving companies** use of **Digital Marketing**, and blogging about lessons learned.
     - [talotics.com](https://talotics.com)
 - **Creating YouTube videos** showing technology in action, to help make technical concepts easy to understand.
     - [youtube.com/user/eviltestervideos](https://youtube.com/user/eviltestervideos)
