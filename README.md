@@ -1,5 +1,8 @@
 # What I do - [EvilTester.com](https://eviltester.com)
 
+<table>
+<tr><td>    
+
 - Sharing content describing lessons learned from experience on my blog
     - [eviltester.com/blog](https://eviltester.com/blog)
 - Helping teams improve their Testing, Automating and Software Development.
@@ -12,16 +15,33 @@
     - [eviltester.com/page/onlinetraining/courses/](https://www.eviltester.com/page/onlinetraining/courses/)
 - Author of books on programming, testing and automating - including Java For Testers, and Dear Evil Tester
     - [eviltester.com/page/books/](https://www.eviltester.com/page/books/)
-    
+</td><td>
+
+**Contact**
+
+- [@EvilTester](https://twitter.com/eviltester) on Twitter
+- [linkedin.com/in/eviltester](https://www.linkedin.com/in/eviltester/)
+- [@EvilTester](https://www.instagram.com/eviltester/) on Instagram
+
+[Blog](https://eviltester.com/blog) at [EvilTester.com](https://eviltester.com)
+
+[Contact Me](https://www.eviltester.com/page/contact/) or [Join my Mailing List](https://www.eviltester.com/page/emaillist/)
+</td>
+</tr>
+</table>
+
 ## Creations
 
-### Programmer of marketing support tools
+<table>
+<tr><td>  
+
+**Programmer of marketing support tools**
 
 - [Chatterscan.com](https://chatterscan.com) a free Twitter client
 - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/)
 - [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) 
 
-### Programmer of Practice Apps to help you practice and improve your Testing and Automating
+**Programmer of Practice Apps to help you practice and improve your Testing and Automating**
 
 - [The Pulper](https://thepulper.herokuapp.com)
 - [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/)
@@ -31,11 +51,13 @@
 - [Simple Todo List](https://eviltester.github.io/simpletodolist/todolists.html)
 - [REST Mud](https://www.compendiumdev.co.uk/page.php?title=restmud) A Multi-User Text Adventure Game
 
-### Motivational Slogans To Test By
+</td><td>
+
+**Motivational Slogans To Test By**
 
 - [The Evil Tester Sloganizer](https://www.eviltester.com/sloganizer)
 
-### Source Code Examples for Study and Explanation
+**Source Code Examples for Study and Explanation**
 
 - [WebDriver with Java FAQs](https://github.com/eviltester/webdriverjavafaqs)
 - [JUnit Examples](https://github.com/eviltester/junitexamples)
@@ -47,13 +69,8 @@
     
 [More projects in the repo list](https://github.com/eviltester?tab=repositories)
 
-## Contact
+</td>
+</tr>
+</table>
 
-- [@EvilTester](https://twitter.com/eviltester) on Twitter
-- [linkedin.com/in/eviltester](https://www.linkedin.com/in/eviltester/)
-- [@EvilTester](https://www.instagram.com/eviltester/) on Instagram
-
-[Blog](https://eviltester.com/blog) at [EvilTester.com](https://eviltester.com)
-
-[Contact Me](https://www.eviltester.com/page/contact/) or [Join my Mailing List](https://www.eviltester.com/page/emaillist/)
 
