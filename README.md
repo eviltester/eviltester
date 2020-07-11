@@ -16,7 +16,7 @@
 - Author of books on programming, testing and automating - including Java For Testers, and Dear Evil Tester
     - [eviltester.com/page/books/](https://www.eviltester.com/page/books/)
 </td>
-<td style="background: aliceblue;">
+<td style="background: red;">
 
 **Contact**
 
@@ -49,6 +49,7 @@
 - [The Evil Tester Sloganizer](https://www.eviltester.com/sloganizer)
 </td>
 </tr>
+
 <tr>
 <td>
 **Programmer of Practice Apps to help you practice and improve your Testing and Automating**
@@ -62,11 +63,6 @@
 - [REST Mud](https://www.compendiumdev.co.uk/page.php?title=restmud) A Multi-User Text Adventure Game
 
 </td><td>
-
-**Motivational Slogans To Test By**
-
-- [The Evil Tester Sloganizer](https://www.eviltester.com/sloganizer)
-
 **Source Code Examples for Study and Explanation**
 
 - [WebDriver with Java FAQs](https://github.com/eviltester/webdriverjavafaqs)
