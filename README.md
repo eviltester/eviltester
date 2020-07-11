@@ -3,17 +3,17 @@
 <table>
 <tr><td>    
 
-- Sharing content describing lessons learned from experience on my blog
+- **Sharing content** describing lessons learned from experience on my blog
     - [eviltester.com/blog](https://eviltester.com/blog)
-- Helping teams improve their Testing, Automating and Software Development.
-    - Consulting via [compendiumdev.co.uk](https://compendiumdev.co.uk)
+- **Helping teams** improve their **Testing, Automating and Software Development**.
+    - **Consulting** via [compendiumdev.co.uk](https://compendiumdev.co.uk)
 - Improving companies Digital Marketing, and blogging about lessons learned.
     - [talotics.com](https://talotics.com)
-- Creating YouTube videos showing technology in action, to help make technical concepts easy to understand.
+- **Creating YouTube videos** showing technology in action, to help make technical concepts easy to understand.
     - [youtube.com/user/eviltestervideos](https://youtube.com/user/eviltestervideos)
-- Online Training on Testing, Automating, WebDriver and Presentation skills, with 10+ online training courses available.
+- **Online Training** on Testing, Automating, WebDriver and Presentation skills, with **10+ online training courses available**.
     - [eviltester.com/page/onlinetraining/courses/](https://www.eviltester.com/page/onlinetraining/courses/)
-- Author of books on programming, testing and automating - including Java For Testers, and Dear Evil Tester
+- **Author** of books on programming, testing and automating - including Java For Testers, and Dear Evil Tester
     - [eviltester.com/page/books/](https://www.eviltester.com/page/books/)
 </td>
 <td>
