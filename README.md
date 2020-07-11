@@ -1,7 +1,7 @@
 # What I do - [EvilTester.com](https://eviltester.com)
 
 - Sharing content describing lessons learned from experience on my blog
-    - [eviltester.com/blog][https://eviltester.com/blog]
+    - [eviltester.com/blog](https://eviltester.com/blog)
 - Helping teams improve their Testing, Automating and Software Development.
     - Consulting via [compendiumdev.co.uk](https://compendiumdev.co.uk)
 - Improving companies Digital Marketing, and blogging about lessons learned.
@@ -12,6 +12,9 @@
     - [eviltester.com/page/onlinetraining/courses/](https://www.eviltester.com/page/onlinetraining/courses/)
 - Author of books on programming, testing and automating - including Java For Testers, and Dear Evil Tester
     - [eviltester.com/page/books/](https://www.eviltester.com/page/books/)
+    
+## Creations
+
 - Programmer of marketing support tools
     - [Chatterscan.com](https://chatterscan.com) a free Twitter client
     - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/)
