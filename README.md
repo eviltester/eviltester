@@ -1,16 +1,36 @@
-### Hi there 👋
+# What I do - [EvilTester.com](https://eviltester.com)
 
-<!--
-**eviltester/eviltester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sharing content describing lessons learned from experience on my blog
+    - [eviltester.com/blog][https://eviltester.com/blog]
+- Helping teams improve their Testing, Automating and Software Development.
+    - Consulting via [compendiumdev.co.uk](https://compendiumdev.co.uk)
+- Improving companies Digital Marketing, and blogging about lessons learned.
+    - [talotics.com](https://talotics.com)
+- Creating YouTube videos showing technology in action, to help make technical concepts easy to understand.
+    - [youtube.com/user/eviltestervideos](https://youtube.com/user/eviltestervideos)
+- Online Training on Testing, Automating, WebDriver and Presentation skills, with 10+ online training courses available.
+    - [eviltester.com/page/onlinetraining/courses/](https://www.eviltester.com/page/onlinetraining/courses/)
+- Author of books on programming, testing and automating - including Java For Testers, and Dear Evil Tester
+    - [eviltester.com/page/books/](https://www.eviltester.com/page/books/)
+- Programmer of marketing support tools
+    - [Chatterscan.com](https://chatterscan.com) a free Twitter client
+    - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/)
+    - [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) 
+- Programmer of Practice Apps to help you practice and improve your Testing and Automating
+    - [The Pulper](https://thepulper.herokuapp.com)
+    - [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/)
+    - [Test Pages Compendium](https://testpages.herokuapp.com/)
+    - [Thingifier Custom APIs](https://apithingifier.herokuapp.com/)
+    - [Compendium of Testing apps](https://github.com/eviltester/TestingApp) includes, The Pulper, Listicator, Test Pages, and more
+    - [Simple Todo List](https://eviltester.github.io/simpletodolist/todolists.html)
+    - [REST Mud](https://www.compendiumdev.co.uk/page.php?title=restmud) A Multi-User Text Adventure Game
+    - [The Evil Tester Sloganizer](https://www.eviltester.com/sloganizer) Motivational Slogans To Test By
+- Source Code Examples for Study and Explanation
+    - [WebDriver with Java FAQs](https://github.com/eviltester/webdriverjavafaqs)
+    - [JUnit Examples](https://github.com/eviltester/junitexamples)
+    - [Java Automation Libraries](https://github.com/eviltester/libraryexamples)
+    - [Start Using Selenium WebDriver](https://github.com/eviltester/startUsingSeleniumWebDriver)
+    - [Start Using JUnit]()
+    - [KeyWord Driven Automating Framework Demystified](https://github.com/eviltester/keywordDrivenAutomatingDrafts)
+    - [Java For Testers Source Code](https://github.com/eviltester/javaForTestersCode)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
