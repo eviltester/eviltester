@@ -15,7 +15,8 @@
     - [eviltester.com/page/onlinetraining/courses/](https://www.eviltester.com/page/onlinetraining/courses/)
 - Author of books on programming, testing and automating - including Java For Testers, and Dear Evil Tester
     - [eviltester.com/page/books/](https://www.eviltester.com/page/books/)
-</td><td>
+</td>
+<td style="background: aliceblue;">
 
 **Contact**
 
@@ -39,8 +40,17 @@
 
 - [Chatterscan.com](https://chatterscan.com) a free Twitter client
 - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/)
-- [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) 
+- [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/)
 
+</td><td>
+
+**Motivational Slogans To Test By**
+
+- [The Evil Tester Sloganizer](https://www.eviltester.com/sloganizer)
+</td>
+</tr>
+<tr>
+<td>
 **Programmer of Practice Apps to help you practice and improve your Testing and Automating**
 
 - [The Pulper](https://thepulper.herokuapp.com)
