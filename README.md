@@ -1,3 +1,4 @@
+![](github-eviltester-promo-6f.gif)
 # What I do - [EvilTester.com](https://eviltester.com)
 
 <table>
