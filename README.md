@@ -40,15 +40,15 @@
 
 **Programmer of marketing support tools**
 
-- [Chatterscan.com](https://chatterscan.com) a free Twitter client [src](https://github.com/eviltester/chatterscan)
-- [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/) [src](https://github.com/eviltester/textrenderer)
-- [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) [src](https://github.com/talotics/tweetstormer)
+- [Chatterscan.com](https://chatterscan.com) a free Twitter client | [src](https://github.com/eviltester/chatterscan)
+- [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/) | [src](https://github.com/eviltester/textrenderer)
+- [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) | [src](https://github.com/talotics/tweetstormer)
 
 </td><td>
 
 **Motivational Slogans To Test By**
 
-- [The Evil Tester Sloganizer](https://www.eviltester.com/sloganizer) [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/compendiumdevapps/src/main/resources/web/apps/sloganizer/version)
+- [The Evil Tester Sloganizer](https://www.eviltester.com/sloganizer) | [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/compendiumdevapps/src/main/resources/web/apps/sloganizer/version)
 
 </td>
 </tr>
@@ -57,13 +57,13 @@
     
 **Programmer of Apps to help you practice your Testing and Automating**
 
-- [The Pulper](https://thepulper.herokuapp.com) [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/thepulper)
-- [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/) [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/restlisticator)
-- [Test Pages Compendium](https://testpages.herokuapp.com/) [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/seleniumtestpages)
-- [Thingifier Custom APIs](https://apithingifier.herokuapp.com/) [src]
+- [The Pulper](https://thepulper.herokuapp.com) | [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/thepulper)
+- [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/) | [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/restlisticator)
+- [Test Pages Compendium](https://testpages.herokuapp.com/) | [src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/seleniumtestpages)
+- [Thingifier Custom APIs](https://apithingifier.herokuapp.com/) | [src]
 - [Compendium of Testing apps](https://github.com/eviltester/TestingApp) includes, The Pulper, Listicator, Test Pages, and more
-- [Simple Todo List](https://eviltester.github.io/simpletodolist/todolists.html) [src](https://github.com/eviltester/simpletodolist)
-- [REST Mud](https://www.compendiumdev.co.uk/page.php?title=restmud) A Multi-User Text Adventure Game [src](https://github.com/eviltester/restmud)
+- [Simple Todo List](https://eviltester.github.io/simpletodolist/todolists.html) | [src](https://github.com/eviltester/simpletodolist)
+- [REST Mud](https://www.compendiumdev.co.uk/page.php?title=restmud) A Multi-User Text Adventure Game | [src](https://github.com/eviltester/restmud)
 
 </td><td>
     
