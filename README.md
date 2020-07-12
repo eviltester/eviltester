@@ -54,7 +54,7 @@
 <tr>
 <td>
     
-**Programmer of Practice Apps to help you practice and improve your Testing and Automating**
+**Programmer of Apps to help you practice your Testing and Automating**
 
 - [The Pulper](https://thepulper.herokuapp.com)
 - [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/)
@@ -66,7 +66,7 @@
 
 </td><td>
     
-**Source Code Examples for Study and Explanation**
+**Source Code Examples for Study**
 
 - [WebDriver with Java FAQs](https://github.com/eviltester/webdriverjavafaqs)
 - [JUnit Examples](https://github.com/eviltester/junitexamples)
