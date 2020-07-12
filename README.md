@@ -61,7 +61,8 @@
 - [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/restlisticator)]
 - [Test Pages Compendium](https://testpages.herokuapp.com/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/seleniumtestpages)]
 - [Thingifier Custom APIs](https://apithingifier.herokuapp.com/) | [[src](https://github.com/eviltester/thingifier)]
-- [Compendium of Testing apps](https://github.com/eviltester/TestingApp) includes, The Pulper, Listicator, Test Pages, and more
+- [Buggy Games and Web Apps](https://eviltester.github.io/TestingApp/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/compendiumdevapps/src/main/resources/web)]
+- [Compendium of Testing apps](https://github.com/eviltester/TestingApp) includes, The Pulper, Listicator, Test Pages, Buggy Games, and more
 - [Simple Todo List](https://eviltester.github.io/simpletodolist/todolists.html) | [[src](https://github.com/eviltester/simpletodolist)]
 - [REST Mud](https://www.compendiumdev.co.uk/page.php?title=restmud) A Multi-User Text Adventure Game | [[src](https://github.com/eviltester/restmud)]
 
