@@ -1,4 +1,3 @@
-[![](/eviltester/eviltester/raw/master/github-eviltester-promo-6f.gif)](https://eviltester.com)
 # What I do - [EvilTester.com](https://eviltester.com)
 
 <table>
@@ -31,6 +30,8 @@
 </td>
 </tr>
 </table>
+
+[![](/eviltester/eviltester/raw/master/github-eviltester-promo-6f.gif)](https://eviltester.com)
 
 ## Creations
 
