@@ -1,3 +1,6 @@
+# News
+- 20200729 [API Challenges] has been released live. An online set of challenges and and API for practicing and learning about API testing.
+
 # What I do - [EvilTester.com](https://eviltester.com)
 
 <table>
