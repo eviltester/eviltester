@@ -74,6 +74,7 @@
 **Source Code Examples for Study**
 
 - [WebDriver with Java FAQs](https://github.com/eviltester/webdriverjavafaqs)
+- [API Automation](https://github.com/eviltester/automating-rest-api)
 - [JUnit Examples](https://github.com/eviltester/junitexamples)
 - [Java Automation Libraries](https://github.com/eviltester/libraryexamples)
 - [Start Using Selenium WebDriver](https://github.com/eviltester/startUsingSeleniumWebDriver)
