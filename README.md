@@ -2,6 +2,8 @@
 - 20200819 [API Automation Code](https://github.com/eviltester/automating-rest-api) Combined the text and code from my Basic and Advanced REST API Workshops, released publicly on Github.
 - 20200729 [API Challenges](https://eviltester.com/apichallenges) has been released live. An online set of challenges and and API for practicing and learning about API testing.
 
+Support my open source work via: [Patreon](https://patreon.com/eviltester), [Github Sponsors](https://github.com/sponsors/eviltester)
+
 # What I do - [EvilTester.com](https://eviltester.com)
 
 <table>
