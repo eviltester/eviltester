@@ -1,4 +1,5 @@
 # News
+- 20201006 [Open Source Profile Material](https://github.com/eviltester/open-source-profile) Released the slides and extra materials from my Open Source Profile talk at Open Quality Conference
 - 20200819 [API Automation Code](https://github.com/eviltester/automating-rest-api) Combined the text and code from my Basic and Advanced REST API Workshops, released publicly on Github.
 - 20200729 [API Challenges](https://eviltester.com/apichallenges) has been released live. An online set of challenges and and API for practicing and learning about API testing.
 
