@@ -50,7 +50,8 @@ Support my open source work via: [Patreon](https://patreon.com/eviltester), [Git
 **Programmer of Useful Tools**
 
 - [Chatterscan.com](https://chatterscan.com) a free Twitter client | [[src](https://github.com/eviltester/chatterscan)]
-- [Data Table Editor and Tes Data Generator](https://eviltester.github.io/grid-table-editor/) generate, edit and convert table based data.   
+- [Data Table Editor and Test Data Generator](https://eviltester.github.io/grid-table-editor/) | [[src](https://github.com/eviltester/grid-table-editor)]
+    - generate, edit and convert table based data.   
 - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/) | [[src](https://github.com/eviltester/textrenderer)]
 - [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) | [[src](https://github.com/talotics/tweetstormer)]
 
