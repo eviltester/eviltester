@@ -1,4 +1,5 @@
 # News
+- 20220620 Table Editor and Data Generator is now [AnyWayData.com](https://anywaydata.com)
 - 20220531 [Table Editor and Data Generator](https://eviltester.github.io/grid-table-editor/) now has Docusaurus powered site and docs
 - 20210708 [New App - Markdown Table Editor](https://eviltester.github.io/grid-table-editor/) with [src](https://github.com/eviltester/grid-table-editor)
 - 20201006 [Open Source Profile Material](https://github.com/eviltester/open-source-profile) Released the slides and extra materials from my Open Source Profile talk at Open Quality Conference
@@ -49,9 +50,9 @@ Support my open source work via: [Patreon](https://patreon.com/eviltester), [Git
 
 **Programmer of Useful Tools**
 
+- [AnyWayData.com](https://anywaydata.com) | [[src](https://github.com/eviltester/grid-table-editor)]
+    - generate, edit and convert table based data.
 - [Chatterscan.com](https://chatterscan.com) a free Twitter client | [[src](https://github.com/eviltester/chatterscan)]
-- [Data Table Editor and Test Data Generator](https://eviltester.github.io/grid-table-editor/) | [[src](https://github.com/eviltester/grid-table-editor)]
-    - generate, edit and convert table based data.   
 - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/) | [[src](https://github.com/eviltester/textrenderer)]
 - [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) | [[src](https://github.com/talotics/tweetstormer)]
 
@@ -98,6 +99,5 @@ Support my open source work via: [Patreon](https://patreon.com/eviltester), [Git
 </tr>
 </table>
 
-[![](/eviltester/eviltester/raw/master/github-eviltester-promo-6f.gif)](https://eviltester.com)
 
 
