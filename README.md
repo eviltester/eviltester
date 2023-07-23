@@ -1,4 +1,5 @@
 # News
+- 20230723 The [WebDriver API Course code](https://github.com/eviltester/seleniumWebDriverAPICourse) has been updated to use both Selenium 3 and Selenium 4 (with Selenium 4 tests running as a Github Action), and the [SUT TestingPages](https://testpages.herokuapp.com/) has been updated to use the modern styled pages rather than the original legacy raw HTML.
 - 20220620 Table Editor and Data Generator is now [AnyWayData.com](https://anywaydata.com)
 - 20220531 [Table Editor and Data Generator](https://eviltester.github.io/grid-table-editor/) now has Docusaurus powered site and docs
 - 20210708 [New App - Markdown Table Editor](https://eviltester.github.io/grid-table-editor/) with [src](https://github.com/eviltester/grid-table-editor)
