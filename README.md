@@ -1,4 +1,5 @@
 # News
+- 20240128 A new version of the API Challenges has been released [API Challenges](https://apichallenges.eviltester.com) each player's session is now separate from each other, rather than having a single shared public session. 
 - 20230909 The [testpages](https://testpages.eviltester.com) now incorporates the HTML Testing Reference guide (so I've make the reference guide rep private)
 - 20230807 Move many older WebDriver and Selenium repos into one giant repo [SeleniumWebDriverCompendium](https://github.com/eviltester/seleniumWebDriverCompendium) to collate all the code and make it easier to update and repurpose. Older repos have been made private and archived.
 - 20230723 The [WebDriver API Course code](https://github.com/eviltester/seleniumWebDriverAPICourse) has been updated to use both Selenium 3 and Selenium 4 (with Selenium 4 tests running as a Github Action), and the [SUT TestingPages](https://testpages.herokuapp.com/) has been updated to use the modern styled pages rather than the original legacy raw HTML.
