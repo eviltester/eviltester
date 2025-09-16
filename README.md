@@ -1,3 +1,13 @@
+I'm Alan Richardson:
+
+- A Software Developer with experience in Kotlin, Java, AWS.
+- An experienced Agile consultant helping teams improve their development processes.
+- An experienced Keynote Speaker and Trainer [talks list](https://www.eviltester.com/conference/)
+- Experienced in Testing - Automating, Security and Performance Testing, Technical Web and API Exploratory Testing.
+- Experienced in DevRel - creating educational and marketing content - blogs, ebooks, podcasts, videos, tutorials, training.
+- Experienced in Marketing - worked professionally in Marketing for Software Development tools - digital marketing, ads, PR.
+
+I'm available for consultancy and interesting projects, contact me on [LinkedIn](https://www.linkedin.com/in/eviltester/)
 
 Support my open source work via: [Patreon](https://patreon.com/eviltester), [Github Sponsors](https://github.com/sponsors/eviltester)
 
