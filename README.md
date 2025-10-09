@@ -53,8 +53,6 @@ Support my open source work via: [Patreon](https://patreon.com/eviltester), [Git
 
 **Programmer of Useful Tools**
 
-- Podcast Transcriber/Summarizer | [[src](https://github.com/eviltester/podcast-transcriber)]
-    - Python, Hugging Face Models, Ollama, pandoc - download, transcribe and summarize Podcasts and YouTube videos
 - [AnyWayData.com](https://anywaydata.com) | [[src](https://github.com/eviltester/grid-table-editor)]
     - generate, edit and convert table based data.
 - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/) | [[src](https://github.com/eviltester/textrenderer)]
