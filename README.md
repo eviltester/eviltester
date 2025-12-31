@@ -55,6 +55,8 @@ Support my open source work via: [Patreon](https://patreon.com/eviltester), [Git
 
 - [AnyWayData.com](https://anywaydata.com) | [[src](https://github.com/eviltester/grid-table-editor)]
     - generate, edit and convert table based data.
+- [Counterstring chrome extension](https://www.eviltester.com/page/tools/counterstringjs/) | [[src]](https://github.com/eviltester/counterstringjs)
+- [Exploratory Testing Chrome Extension](https://www.eviltester.com/page/tools/observatron/) | [[src]](https://github.com/eviltester/observatron)
 - [Text to image generation tool](https://talotics.com/apps/textimagertool/text-imager-tool/) | [[src](https://github.com/eviltester/textrenderer)]
 - [TweetStorm Generator](https://talotics.com/apps/tweetstormer/tweetstorm-tool/) | [[src](https://github.com/talotics/tweetstormer)]
 
@@ -71,10 +73,10 @@ Support my open source work via: [Patreon](https://patreon.com/eviltester), [Git
     
 **Programmer of Apps to help you practice your Testing and Automating**
 
-- [API Challenges](https://apichallenges.herokuapp.com/) | [[src](https://github.com/eviltester/thingifier)]
+- [API Challenges](https://apichallenges.eviltester.com/) | [[src](https://github.com/eviltester/thingifier)]
+- [Test Pages Compendium](https://testpages.eviltester.com/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/seleniumtestpages)]
 - [The Pulper](https://thepulper.herokuapp.com) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/thepulper)]
 - [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/restlisticator)]
-- [Test Pages Compendium](https://testpages.herokuapp.com/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/seleniumtestpages)]
 - [Buggy Games and Web Apps](https://eviltester.github.io/TestingApp/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/compendiumdevapps/src/main/resources/web)]
 - [Compendium of Testing apps](https://github.com/eviltester/TestingApp) includes, The Pulper, Listicator, Test Pages, Buggy Games, and more
 - [Simple Todo List](https://eviltester.github.io/simpletodolist/todolists.html) | [[src](https://github.com/eviltester/simpletodolist)]
