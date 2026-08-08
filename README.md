@@ -1,6 +1,6 @@
 I'm Alan Richardson:
 
-- A Software Developer with experience in Kotlin, Java, AWS.
+- A Software Developer with experience in Kotlin, Java, AWS, Python, TypeScript, Javascript, HTML.
 - An experienced Agile consultant helping teams improve their development processes.
 - An experienced Keynote Speaker and Trainer [talks list](https://www.eviltester.com/conference/)
 - Experienced in Testing - Automating, Security and Performance Testing, Technical Web and API Exploratory Testing.
@@ -10,6 +10,22 @@ I'm Alan Richardson:
 I'm available for consultancy and interesting projects, contact me on [LinkedIn](https://www.linkedin.com/in/eviltester/)
 
 Support my open source work via: [Patreon](https://patreon.com/eviltester), [Github Sponsors](https://github.com/sponsors/eviltester)
+
+Public apps:
+
+- [BoomStash.com](https://boomstash.com)
+- [APIChallenges.com](https://apichallenges.com)
+- [TesterHQ.com](https://testerhq.com)
+- [AnyWayData.com](https://anywaydata.com)
+- [Test Pages](https://testpages.eviltester.com)
+- [The Pulper](https://thepulper.eviltester.com)
+- [AI Supported Learning](https://ai-supported-learning.lovable.app/)
+
+Sites:
+
+- [EvilTester.com](https://eviltester.com)
+- [Talotics](https://talotics.com)
+- [YouTube](https://youtube.com/@eviltester)
 
 # What I do - [EvilTester.com](https://eviltester.com)
 
@@ -73,7 +89,7 @@ Support my open source work via: [Patreon](https://patreon.com/eviltester), [Git
     
 **Programmer of Apps to help you practice your Testing and Automating**
 
-- [API Challenges](https://apichallenges.eviltester.com/) | [[src](https://github.com/eviltester/thingifier)]
+- [API Challenges](https://apichallenges.com/) | [[src](https://github.com/eviltester/apichallenges)]
 - [Test Pages Compendium](https://testpages.eviltester.com/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/seleniumtestpages)]
 - [The Pulper](https://thepulper.herokuapp.com) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/thepulper)]
 - [Rest Listicator API](http://rest-list-system.herokuapp.com/listicator/) | [[src](https://github.com/eviltester/TestingApp/tree/master/java/testingapps/restlisticator)]
